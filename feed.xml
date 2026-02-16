@@ -3,7 +3,7 @@
     <title>All Jobs BD</title>
     <link href="https://all-job.pages.dev/feed.xml" rel="self" />
     <link href="https://all-job.pages.dev" />
-    <updated>2026-02-16T16:33:53+06:00</updated>
+    <updated>2026-02-16T20:16:49+06:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -30,6 +30,14 @@
                     <p><img src="https://all-job.pages.dev/media/posts/4/dss-2026.jpg" class="type:primaryImage" alt="" /></p>
                 <p>প্রথমে কিছু পেরাগ্রাফি প্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফি</p>
 <p>এখানে টেবিল অফ কন্টেন্ট</p>
+<ol>
+<li>list 1</li>
+<li>লিস্ট 2</li>
+</ol>
+<ul>
+<li>বুলেট 3</li>
+<li>বুলেট 4</li>
+</ul>
 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>

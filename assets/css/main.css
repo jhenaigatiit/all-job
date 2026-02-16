@@ -188,13 +188,13 @@ strong {
 }
 
 blockquote {
-  border-top: 2px solid var(--dark);
-  border-bottom: 2px solid var(--dark);
+  background-color: var(--lighter);
+  border-left: 3px solid #0C7FDD;
   color: var(--headings-color);
   font-family: var(--heading-font);
   font-style: italic;
   font-variation-settings: "wght" var(--font-weight-bold);
-  padding: calc(var(--baseline) * 6 + 1vw) 2rem;
+  padding: calc(var(--baseline) * 2 + 1vw) 1rem;
   font-size: clamp(1.1377777785rem, 1.1377777785rem + 0.1567604947 * (100vw - 20rem) / 70, 1.2945382732rem);
 }
 blockquote > :nth-child(1) {
@@ -887,7 +887,7 @@ textarea {
   color: var(--nav-link-color);
 }
 .navbar .navbar__toggle {
-  background: var(--black);
+  background: #0C7FDD;
   -webkit-box-shadow: none;
           box-shadow: none;
   border: none;
@@ -902,7 +902,7 @@ textarea {
   margin-left: 0.75rem;
   text-transform: none;
   z-index: 2004;
-  height: 3.2rem;
+  height: 2rem;
   padding: 0;
   width: 3.2rem;
 }
