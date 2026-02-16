@@ -3,12 +3,83 @@
     <title>Education</title>
     <link href="https://all-job.pages.dev/feed.xml" rel="self" />
     <link href="https://all-job.pages.dev" />
-    <updated>2026-02-16T10:14:00+06:00</updated>
+    <updated>2026-02-16T10:29:38+06:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://all-job.pages.dev</id>
 
+    <entry>
+        <title>এটাও টেস্ট পোস্ট টেবিল সহ</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://all-job.pages.dev/test-post-post.html"/>
+        <id>https://all-job.pages.dev/test-post-post.html</id>
+        <media:content url="https://all-job.pages.dev/media/posts/4/dss-2026.jpg" medium="image" />
+
+        <updated>2026-02-16T10:29:38+06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://all-job.pages.dev/media/posts/4/dss-2026.jpg" alt="" />
+                    প্রথমে কিছু পেরাগ্রাফি প্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফি এখানে টেবিল অফ কন্টেন্ট প্রথমে কিছু পেরাগ্রাফি প্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফি টেবিল&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://all-job.pages.dev/media/posts/4/dss-2026.jpg" class="type:primaryImage" alt="" /></p>
+                <p>প্রথমে কিছু পেরাগ্রাফি প্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফি</p>
+<p>এখানে টেবিল অফ কন্টেন্ট</p>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1jhib0j8qo">এরপর একটি হিডিং 2 দিতেই হয়</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1jhib0j8qo">এরপর একটি হিডিং 2 দিতেই হয়</h2>
+<p>প্রথমে কিছু পেরাগ্রাফি প্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফিপ্রথমে কিছু পেরাগ্রাফি</p>
+<p>টেবিল এখানে</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.2942%;">ক্রমিক ন</td>
+<td style="width: 33.2942%;">বর্ণনা</td>
+<td style="width: 33.2977%;">বিন্তারিত</td>
+</tr>
+<tr>
+<td style="width: 33.2942%;">01</td>
+<td style="width: 33.2942%;">ভর্তি পরিক্ষা</td>
+<td style="width: 33.2977%;">15/10/2026</td>
+</tr>
+<tr>
+<td style="width: 33.2942%;">02</td>
+<td style="width: 33.2942%;">ফরম ফিলাম</td>
+<td style="width: 33.2977%;">16 নভেম্বর 2026</td>
+</tr>
+<tr>
+<td style="width: 33.2942%;">03</td>
+<td style="width: 33.2942%;">রোুটিন</td>
+<td style="width: 33.2977%;">আটারো 2026</td>
+</tr>
+</tbody>
+</table>
+<p>কিছু কোটও দিতে হয়</p>
+<blockquote>
+<p>এসএম এস ফর্মেট 12 ‍277,.4fgs sfj s5fgsdfg45 sf85g4 584sdfg f5g45sfdg4 </p>
+</blockquote>
+<p>এখানে কিছু এইচটিএমএল কোড</p>
+<pre class="language-html"><code>&lt;h1&gt;sadharor &lt;/h1&gt;</code></pre>
+<h2>একক ইমেজ একক ইমেজ</h2>
+<figure class="post__image"><img loading="lazy"  src="https://all-job.pages.dev/media/posts/4/Screenshot-2026-02-15-171949.jpg" alt="" width="709" height="1202" sizes="(max-width: 48em) 100vw, 768px" srcset="https://all-job.pages.dev/media/posts/4/responsive/Screenshot-2026-02-15-171949-xs.jpg 300w ,https://all-job.pages.dev/media/posts/4/responsive/Screenshot-2026-02-15-171949-sm.jpg 480w ,https://all-job.pages.dev/media/posts/4/responsive/Screenshot-2026-02-15-171949-md.jpg 768w ,https://all-job.pages.dev/media/posts/4/responsive/Screenshot-2026-02-15-171949-lg.jpg 1024w ,https://all-job.pages.dev/media/posts/4/responsive/Screenshot-2026-02-15-171949-xl.jpg 1360w ,https://all-job.pages.dev/media/posts/4/responsive/Screenshot-2026-02-15-171949-2xl.jpg 1600w"></figure>
+<h2>ইমেজ গ্যালারি গ্যলারি</h2>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://all-job.pages.dev/media/posts/4/gallery/71141963_381596006110896_6890107491112189952_n.jpg" data-size="775x928"><img loading="lazy" src="https://all-job.pages.dev/media/posts/4/gallery/71141963_381596006110896_6890107491112189952_n-thumbnail.jpg" alt="" width="768" height="920"></a></figure>
+<figure class="gallery__item"><a href="https://all-job.pages.dev/media/posts/4/gallery/nid-gulam-mustofa.jpeg" data-size="414x267"><img loading="lazy" src="https://all-job.pages.dev/media/posts/4/gallery/nid-gulam-mustofa-thumbnail.jpeg" alt="" width="414" height="267"></a></figure>
+<figure class="gallery__item"><a href="https://all-job.pages.dev/media/posts/4/gallery/sefali.jpeg" data-size="413x265"><img loading="lazy" src="https://all-job.pages.dev/media/posts/4/gallery/sefali-thumbnail.jpeg" alt="" width="413" height="265"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>অন্য একটি পোস্ট </title>
         <author>
