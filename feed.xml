@@ -3,7 +3,7 @@
     <title>All Jobs BD</title>
     <link href="https://all-job.pages.dev/feed.xml" rel="self" />
     <link href="https://all-job.pages.dev" />
-    <updated>2026-02-16T10:32:53+06:00</updated>
+    <updated>2026-02-16T16:33:53+06:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -111,7 +111,7 @@
         </content>
     </entry>
     <entry>
-        <title>test post setup</title>
+        <title>এটা টেস্ট post</title>
         <author>
             <name>admin</name>
         </author>

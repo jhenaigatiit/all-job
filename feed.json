@@ -42,7 +42,7 @@
         {
             "id": "https://all-job.pages.dev/test-post-setup.html",
             "url": "https://all-job.pages.dev/test-post-setup.html",
-            "title": "test post setup",
+            "title": "এটা টেস্ট post",
             "summary": " this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test&hellip;",
             "content_html": "<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>\n<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>\n<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>\n<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>",
             "author": {
@@ -51,7 +51,7 @@
             "tags": [
             ],
             "date_published": "2025-12-27T17:43:35+06:00",
-            "date_modified": "2025-12-27T17:43:35+06:00"
+            "date_modified": "2026-02-16T16:33:53+06:00"
         }
     ]
 }
