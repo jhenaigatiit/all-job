@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://alljob.bd/sitemap.xml
+Sitemap: https://all-job.pages.dev/sitemap.xml

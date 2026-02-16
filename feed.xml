@@ -1,21 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Education</title>
-    <link href="https://alljob.bd/feed.xml" rel="self" />
-    <link href="https://alljob.bd" />
-    <updated>2025-12-27T17:43:35+06:00</updated>
+    <link href="https://all-job.pages.dev/feed.xml" rel="self" />
+    <link href="https://all-job.pages.dev" />
+    <updated>2026-02-16T10:08:38+06:00</updated>
     <author>
         <name>admin</name>
     </author>
-    <id>https://alljob.bd</id>
+    <id>https://all-job.pages.dev</id>
 
+    <entry>
+        <title>অন্য একটি পোস্ট </title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://all-job.pages.dev/any-ektti-postt.html"/>
+        <id>https://all-job.pages.dev/any-ektti-postt.html</id>
+        <media:content url="https://all-job.pages.dev/media/posts/2/dss-2026.jpg" medium="image" />
+
+        <updated>2026-02-16T10:08:38+06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://all-job.pages.dev/media/posts/2/dss-2026.jpg" alt="" />
+                    এখানে আমরা যা করতে চাই তাহই হবে। কিন্তু যদি প্রাইভেট ভাবে দেখি তাহলে তো একটু আলাদা লাগে তাইনা। এখানে আমরা যা করতে চাই তাহই হবে। কিন্তু যদি প্রাইভেট ভাবে দেখি তাহলে তো একটু আলাদা লাগে তাইনা। এখানে আমরা যা করতে চাই তাহই হবে। কিন্তু যদি&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://all-job.pages.dev/media/posts/2/dss-2026.jpg" class="type:primaryImage" alt="" /></p>
+                <p>এখানে আমরা যা করতে চাই তাহই হবে। কিন্তু যদি প্রাইভেট ভাবে দেখি তাহলে তো একটু আলাদা লাগে তাইনা। </p>
+<h2>হিডিং 2 হিডিং 2 হিডিং 2 হিডিং 2 হিডিং 2 </h2>
+<p>এখানে আমরা যা করতে চাই তাহই হবে। কিন্তু যদি প্রাইভেট ভাবে দেখি তাহলে তো একটু আলাদা লাগে তাইনা। এখানে আমরা যা করতে চাই তাহই হবে। কিন্তু যদি প্রাইভেট ভাবে দেখি তাহলে তো একটু আলাদা লাগে তাইনা। </p>
+<p>এখানে আমরা যা করতে চাই তাহই হবে। কিন্তু যদি প্রাইভেট ভাবে দেখি তাহলে তো একটু আলাদা লাগে তাইনা। </p>
+<p>এখানে আমরা যা করতে চাই তাহই হবে। কিন্তু যদি প্রাইভেট ভাবে দেখি তাহলে তো একটু আলাদা লাগে তাইনা। </p>
+<figure class="post__image"><img loading="lazy"  src="https://all-job.pages.dev/media/posts/2/Screenshot-2026-02-15-171949.jpg" alt="" width="709" height="1202" sizes="(max-width: 48em) 100vw, 768px" srcset="https://all-job.pages.dev/media/posts/2/responsive/Screenshot-2026-02-15-171949-xs.jpg 300w ,https://all-job.pages.dev/media/posts/2/responsive/Screenshot-2026-02-15-171949-sm.jpg 480w ,https://all-job.pages.dev/media/posts/2/responsive/Screenshot-2026-02-15-171949-md.jpg 768w ,https://all-job.pages.dev/media/posts/2/responsive/Screenshot-2026-02-15-171949-lg.jpg 1024w ,https://all-job.pages.dev/media/posts/2/responsive/Screenshot-2026-02-15-171949-xl.jpg 1360w ,https://all-job.pages.dev/media/posts/2/responsive/Screenshot-2026-02-15-171949-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test post setup</title>
         <author>
             <name>admin</name>
         </author>
-        <link href="https://alljob.bd/test-post-setup.html"/>
-        <id>https://alljob.bd/test-post-setup.html</id>
+        <link href="https://all-job.pages.dev/test-post-setup.html"/>
+        <id>https://all-job.pages.dev/test-post-setup.html</id>
 
         <updated>2025-12-27T17:43:35+06:00</updated>
             <summary type="html">
