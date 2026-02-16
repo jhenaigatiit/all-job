@@ -1362,7 +1362,7 @@ textarea {
   justify-content: center;
 }
 .content__entry {
-  margin-top: calc(var(--baseline) * 6 + 1.5vw);
+  margin-top: 0px;
 }
 .content__entry > :nth-child(1) {
   margin-top: 0;

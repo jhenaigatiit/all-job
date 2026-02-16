@@ -3,7 +3,7 @@
     <title>All Jobs BD</title>
     <link href="https://all-job.pages.dev/feed.xml" rel="self" />
     <link href="https://all-job.pages.dev" />
-    <updated>2026-02-16T20:16:49+06:00</updated>
+    <updated>2026-02-16T20:56:29+06:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -125,15 +125,18 @@
         </author>
         <link href="https://all-job.pages.dev/test-post-setup.html"/>
         <id>https://all-job.pages.dev/test-post-setup.html</id>
+        <media:content url="https://all-job.pages.dev/media/posts/1/dss-2026.jpg" medium="image" />
 
         <updated>2025-12-27T17:43:35+06:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://all-job.pages.dev/media/posts/1/dss-2026.jpg" alt="" />
                      this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://all-job.pages.dev/media/posts/1/dss-2026.jpg" class="type:primaryImage" alt="" /></p>
                 <p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>
 <p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>
 <p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>
