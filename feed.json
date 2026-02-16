@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Education",
+    "description": "",
+    "home_page_url": "https://alljob.bd",
+    "feed_url": "https://alljob.bd/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://alljob.bd/test-post-setup.html",
+            "url": "https://alljob.bd/test-post-setup.html",
+            "title": "test post setup",
+            "summary": " this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test&hellip;",
+            "content_html": "<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>\n<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>\n<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>\n<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-27T17:43:35+06:00",
+            "date_modified": "2025-12-27T17:43:35+06:00"
+        }
+    ]
+}

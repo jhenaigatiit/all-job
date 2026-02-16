@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Education</title>
+    <link href="https://alljob.bd/feed.xml" rel="self" />
+    <link href="https://alljob.bd" />
+    <updated>2025-12-27T17:43:35+06:00</updated>
+    <author>
+        <name>admin</name>
+    </author>
+    <id>https://alljob.bd</id>
+
+    <entry>
+        <title>test post setup</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://alljob.bd/test-post-setup.html"/>
+        <id>https://alljob.bd/test-post-setup.html</id>
+
+        <updated>2025-12-27T17:43:35+06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                     this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>
+<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>
+<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>
+<p> this is test post for article this is test post for article this is test post for article   this is test post for article this is test post for article this is test post for article  this is test post for article this is test post for article this is test post for article</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
